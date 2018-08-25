@@ -1,0 +1,6 @@
+authors = ["Fredrik Ekre <fredrik.ekre@chalmers.se>"]
+name = "PackageA"
+uuid = "6efbc5e2-a8aa-11e8-15ec-732433cf4580"
+version = "0.1.0"
+
+[deps]
